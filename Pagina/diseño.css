@@ -160,3 +160,8 @@ footer img
 	width: 7%;
 }
 
+iframe
+{
+	border-radius: 10px;
+}
+
