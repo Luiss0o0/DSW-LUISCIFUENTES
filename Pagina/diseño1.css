@@ -101,21 +101,10 @@ hgroup h2
 }
 
 
-#textoprincipal
-{
-	width: 1230px;
-	height:730px;
-	background-color: #324C85;
-	color: #ffffff;
-	margin: 0 auto;
-	border-radius: 20px;
-	padding: 20px;
-	margin-top: 20px;
-}
 #textoprincipal1
 {
 	width: 1230px;
-	height:970px;
+	height:1000px;
 	background-color: #324C85;
 	color: #ffffff;
 	margin: 0 auto;
